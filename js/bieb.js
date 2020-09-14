@@ -17,19 +17,20 @@ storeLocator({
       {
         name: 'Happy Plants',
         address: 'Een plantenasiel voor doneren en adopteren.',
-        location: {lat: 51.592136, lng: 4.222145}
+        location: {lat: 51.592136, lng: 4.222145},
         website: 'https://instagram.com/happyplants_plantenasiel'
       },
       {
         name: "Grave",
         address: 'Plantenbieb Grave met een ruim aanbod kamer-, tuin-, kruidenplanten en moestuinzaden.',
-        location: {lat: 51.761754, lng: 5.729050}
+        location: {lat: 51.761754, lng: 5.729050},
         website: 'https://instagram.com/plantenbiebgrave'
       },
       {
         name: 'Plantenbiebje',
         address: 'Laten we met zn allen meer groen naar binnen en buiten halen',
-        location: {lat: 51.578882, lng: 4.655301}
+        location: {lat: 51.578882, lng: 4.655301},
+        website: 'https://instagram.com/plantenbiebje'
       },
     ]
   })
