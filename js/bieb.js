@@ -6,28 +6,30 @@ storeLocator({
     center: {lat: 51.9074, lng: 4.4930},
     zoom: 11,
     searchHint: "Kies een plantenbieb uit!",
-    homeLocationHint: 'Current location',
+    homeLocationHint: 'Jouw locatie',
     stores: [
       {
         name: 'Plantenbieb.com',
-        address: 'Meld je plantenbieb nu aan!',
+        address: 'Zet je plantenbieb op de kaart!',
         location: {lat: 51.9074, lng: 4.4930},
         website: 'https://plantenbieb.com'
       },
       {
-        name: 'NAAM',
-        address: "BESCHRIJVING",
+        name: 'Happy Plants',
+        address: 'Een plantenasiel voor doneren en adopteren.',
         location: {lat: 51.909101, lng: 4.446417}
+        website: 'https://instagram.com/happyplants_plantenasiel'
       },
       {
-        name: "NAAM",
-        address: 'BESCHRIJVING',
-        location: {lat: 51.914326, lng: 4.400137}
+        name: "Grave",
+        address: 'Plantenbieb Grave met een ruim aanbod kamer-, tuin-, kruidenplanten en moestuinzaden.',
+        location: {lat: 51.761754, lng: 5.729050}
+        website: 'https://instagram.com/plantenbiebgrave'
       },
       {
-        name: 'NAAM',
-        address: 'BESCHRIJVING',
-        location: {lat: 51.908885, lng: 4.350489}
+        name: 'Plantenbiebje',
+        address: 'Laten we met zn allen meer groen naar binnen en buiten halen',
+        location: {lat: 51.578882, lng: 4.655301}
       },
     ]
   })
