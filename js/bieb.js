@@ -17,7 +17,7 @@ storeLocator({
       {
         name: 'Happy Plants',
         address: 'Een plantenasiel voor doneren en adopteren.',
-        location: {lat: 51.909101, lng: 4.446417}
+        location: {lat: 51.592136, lng: 4.222145}
         website: 'https://instagram.com/happyplants_plantenasiel'
       },
       {
