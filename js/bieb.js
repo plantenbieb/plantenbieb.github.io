@@ -28,9 +28,27 @@ storeLocator({
       },
       {
         name: 'Plantenbiebje',
-        address: 'Laten we met zn allen meer groen naar binnen en buiten halen',
+        address: 'Laten we met zn allen meer groen naar binnen en buiten halen.',
         location: {lat: 51.578882, lng: 4.655301},
         website: 'https://instagram.com/plantenbiebje'
+      },
+      {
+        name: 'Plantzoen',
+        address: 'Veel stekjes te ruil en er staat een kruidenbak om kruiden te knippen.',
+        location: {lat: 51.624002, lng: 4.940323},
+        website: 'https://plantzoen.nl/over-plantzoen'
+      },
+      {
+        name: 'Assen Kloosterveen',
+        address: 'Twee beste vriendinnen met liefde voor planten die samen een plantenbieb met twee vestigingen.',
+        location: {lat: 52.998298, lng: 6.506818},
+        website: 'https://instagram.com/plantenbieb_assen'
+      },
+      {
+        name: 'Assen Marsdijk',
+        address: 'Twee beste vriendinnen met liefde voor planten die samen een plantenbieb met twee vestigingen.',
+        location: {lat: 53.014137, lng: 6.592889},
+        website: 'https://instagram.com/plantenbieb_assen'
       },
     ]
   })
