@@ -10,7 +10,7 @@ storeLocator({
     fullWidthMap: 'true',
     stores: [
       {
-        name: 'Plantenbieb.com',
+        name: 'Plantenbieb Nederland',
         address: 'Zet je plantenbieb nu op de kaart!',
         location: {lat: 51.9074, lng: 4.4930},
         website: 'https://plantenbieb.com/contact'
