@@ -59,8 +59,8 @@ storeLocator({
       {
         name: 'Natuurcentrum Gorinchem',
         address: 'De plantenbieb van Mascotte Gijs is hier te vinden.',
-        location: {lat: 53.273198, lng: 6.687785},
-        website: 'https://m.me/PlantenbiebTenBoer'
+        location: {lat: 51.839637, lng: 4.954197},
+        website: 'https://natuurcentrumgorinchem.nl/ontdek-het-eiland'
       },
       {
         name: 'Plantenasiel Fonteinbos',
@@ -76,4 +76,3 @@ storeLocator({
       },
     ]
   })
-  
