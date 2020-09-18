@@ -81,6 +81,36 @@ storeLocator({
         location: {lat: 52.172781, lng: 6.743319},
         website: 'https://www.welkoop.nl/winkels/haaksbergen'
       },
+      {
+        name: 'Rood en Bloem',
+        address: "",
+        location: {lat: 52.088841, lng: 5.118621},
+        website: 'https://roodenbloem.nl/'
+      },
+      {
+        name: 'Steck',
+        address: "",
+        location: {lat: 52.118336, lng: 5.133277},
+        website: 'https://steckutrecht.nl/'
+      },
+      {
+        name: 'De Carlton',
+        address: "",
+        location: {lat: 51.988413, lng: 4.187932},
+        website: 'https://www.decarlton.nl/vestiging/de-carlton-tuincentrum'
+      },
+      {
+        name: 'Bloosom',
+        address: "In-store Shop",
+        location: {lat: 52.630554, lng: 4.748915},
+        website: ''
+      },
+      {
+        name: 'Bloemenplantage',
+        address: "Kwekerij",
+        location: {lat: 51.927919, lng: 2.571101},
+        website: 'https://www.debloemenplantage.nl/contact/'
+      },
     ]
   })
 

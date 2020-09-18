@@ -86,5 +86,11 @@ storeLocator({
         location: {lat: 51.776213, lng: 4.614081},
         website: 'https://www.instagram.com/plantenbieb.sgravendeel'
       },
+      {
+        name: 'Plantenasiel Alkmaar',
+        address: "",
+        location: {lat: 52.642406, lng: 4.74293},
+        website: 'https://www.plantenasielalkmaar.nl/'
+      },
     ]
   })
