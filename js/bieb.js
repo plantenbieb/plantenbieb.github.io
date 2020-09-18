@@ -74,5 +74,23 @@ storeLocator({
         location: {lat: 52.051722, lng: 4.462061},
         website: 'https://www.facebook.com/PlantenasielZoetermeer'
       },
+      {
+        name: 'Plantenbiebje',
+        address: 'Doneer of ruil en geniet.  Max 3 plantjes/stekjes p.p.',
+        location: {lat: 51.578880, lng: 4.655301},
+        website: 'https://www.instagram.com/plantenbiebje/'
+      },
+      {
+        name: 'PlantZoen',
+        address: 'Een kruidenbak om kruiden te knippen en veel stekjes die geruild kunnen worden!',
+        location: {lat: 51.623976, lng: 4.940472},
+        website: 'https://www.instagram.com/plantzoen.dongen/'
+      },
+      {
+        name: 's Gravendeel',
+        address: 'Een grote bieb met veel verschillend aanbod van stekjes, plantjes, zaden en potten.',
+        location: {lat: 51.776213, lng: 4.614081},
+        website: 'https://www.instagram.com/plantenbieb.sgravendeel'
+      },
     ]
   })
