@@ -1,5 +1,5 @@
 storeLocator({
-    container: 'my-store-locator',
+    container: 'Kwekers',
     apiKey: 'AIzaSyA55LXw2hfXdWtViSc28ncD2MXjToagmJw',
     markerIconSize: [40, 40],
     limit: 1,
@@ -108,7 +108,7 @@ storeLocator({
       {
         name: 'Bloemenplantage',
         address: "Kwekerij",
-        location: {lat: 51.927919, lng: 2.571101},
+        location: {lat: 51.927917, lng: 4.571101},
         website: 'https://www.debloemenplantage.nl/contact/'
       },
       {
