@@ -15,5 +15,11 @@ storeLocator({
         location: {lat: 52.308811, lng: 4.609820},
         website: 'https://www.globalgarden.nl/'
       },
+      {
+        name: 'Groencentrum Sonneveld',
+        address: "",
+        location: {lat: 52.076057, lng: 4.639961},
+        website: 'http://www.groencentrumsonneveld.nl/'
+      },
     ]
   })
