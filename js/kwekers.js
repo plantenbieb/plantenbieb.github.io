@@ -57,6 +57,30 @@ storeLocator({
         location: {lat: 52.062027, lng: 4.244931},
         website: 'https://www.tuincentrumnieuwhanenburg.nl/'
       },
+      {
+        name: 'Little Green shop',
+        address: "Bar & Zo little green shop",
+        location: {lat: 52.081369, lng: 4.291904},
+        website: 'https://www.bar-enzo.com/'
+      },
+      {
+        name: 'Hoveniers Veenslagen',
+        address: "",
+        location: {lat: 52.304697, lng: 6.493408},
+        website: 'https://www.tuincentrumveeneslagen.nl/'
+      },
+      {
+        name: 'Myoso',
+        address: "In-store Shop",
+        location: {lat: 52.266451, lng: 6.794786},
+        website: ''
+      },
+      {
+        name: 'Welkoop Haaksbergen',
+        address: "",
+        location: {lat: 52.172781, lng: 6.743319},
+        website: 'https://www.welkoop.nl/winkels/haaksbergen'
+      },
     ]
   })
 
