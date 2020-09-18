@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vertel jouw &lt;span&gt;verhaal&lt;/span&gt; over je plantenbieb. Laat je &lt;span&gt;inspireren&lt;/span&gt; of ga langs voor een stekje! on Plantenbieb Nederland</title>
+    <link>https://plantenbieb.com/reportages/</link>
+    <description>Recent content in Vertel jouw &lt;span&gt;verhaal&lt;/span&gt; over je plantenbieb. Laat je &lt;span&gt;inspireren&lt;/span&gt; of ga langs voor een stekje! on Plantenbieb Nederland</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 23 Dec 2019 16:48:28 +0600</lastBuildDate>
+    
+	<atom:link href="https://plantenbieb.com/reportages/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Plantenbieb in Delftshaven</title>
+      <link>https://plantenbieb.com/reportages/plantenbieb1/</link>
+      <pubDate>Mon, 23 Dec 2019 15:58:10 +0600</pubDate>
+      
+      <guid>https://plantenbieb.com/reportages/plantenbieb1/</guid>
+      <description>Suzanne Streefland deelt geluk met stekjes in de plantenbieb Rotterdam - Suzanne Streefland houdt van groen, in haar huis staan wel dertig planten. Om deze liefde te delen startte ze zes weken geleden de eerste plantenbieb van Rotterdam.</description>
+    </item>
+    
+    <item>
+      <title>Plantenbieb Hilversum</title>
+      <link>https://plantenbieb.com/reportages/plantenbieb2/</link>
+      <pubDate>Mon, 23 Dec 2019 15:55:44 +0600</pubDate>
+      
+      <guid>https://plantenbieb.com/reportages/plantenbieb2/</guid>
+      <description>HILVERSUM - Tomaatjes, munt of een frambozen-stekje: er is volop keus. Nog maar anderhalve week geleden begon Cato Slotboom (22) een plantenbieb in haar voortuin en het loopt storm.</description>
+    </item>
+    
+  </channel>
+</rss>
